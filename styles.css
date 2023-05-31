@@ -329,6 +329,7 @@ body {
 @media only screen and (max-width: 75em) {
   .about-text__header {
     letter-spacing: 1px;
+    text-align: center;
   }
 }
 .about-text__icon {
@@ -489,7 +490,7 @@ body {
     margin-bottom: 2rem;
   }
 }
-@media only screen and (max-width: 37.5em) {
+@media only screen and (max-width: 56.25em) {
   .contact__image {
     position: relative;
     left: -4rem;
@@ -507,7 +508,7 @@ body {
     width: 55%;
   }
 }
-@media only screen and (max-width: 37.5em) {
+@media only screen and (max-width: 56.25em) {
   .contact__header {
     position: relative;
     left: -4rem;
@@ -533,7 +534,7 @@ body {
 .contact__block:first-of-type {
   grid-row: 4/5;
 }
-@media only screen and (max-width: 37.5em) {
+@media only screen and (max-width: 56.25em) {
   .contact__block:first-of-type {
     position: relative;
     left: -4rem;
@@ -542,7 +543,7 @@ body {
 .contact__block:last-of-type {
   grid-row: 5/6;
 }
-@media only screen and (max-width: 37.5em) {
+@media only screen and (max-width: 56.25em) {
   .contact__block:last-of-type {
     position: relative;
     left: -4rem;
